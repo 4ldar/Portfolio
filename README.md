@@ -56,9 +56,9 @@ Modul pembelajaran cara membuat web 3D menggunakan Three.js.
 
 📫 Kontak
 
-📧 Email: alfath@example.com
+📧 Email: alfathsr08@gmail.com
 
-📸 Instagram: @aldar
+📸 Instagram: @aldaarrr
 
 ⚙️ Teknologi yang Digunakan
 
