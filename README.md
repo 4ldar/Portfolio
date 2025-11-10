@@ -1,76 +1,81 @@
-🌐 Portfolio Alfath Ari Wibowo
+# 🌐 Portfolio — **Alfath Ari Wibowo**
 
-Halo! 👋
-Saya Alfath Ari Wibowo, pelajar jurusan PPLG (Pembangunan Perangkat Lunak dan Gim) yang berfokus pada pemrograman, desain, dan pengembangan aplikasi serta game.
-Saya ahli dalam pengembangan aplikasi Android, website interaktif, dan game berbasis Python.
-Selain itu, saya juga memiliki kemampuan dalam desain antarmuka, integrasi AI, dan pengembangan sistem berbasis logika.
+Halo! 👋  
+Saya **Alfath Ari Wibowo**, pelajar jurusan **PPLG (Pembangunan Perangkat Lunak dan Gim)** yang berfokus pada **pemrograman, desain, serta pengembangan aplikasi dan game**.  
+Saya berpengalaman dalam membangun **aplikasi Android**, **website interaktif**, dan **game berbasis Python**, serta memiliki keahlian dalam **desain antarmuka**, **integrasi AI**, dan **pengembangan sistem berbasis logika**.
 
-🧠 Keahlian
+---
 
-Pengembangan Web (HTML, CSS, JavaScript)
+## 🧠 Keahlian
 
-Pengembangan Android (Java, XML, JS)
+- 🌐 **Pengembangan Web** — HTML, CSS, JavaScript  
+- 📱 **Pengembangan Android** — Java, XML, JS  
+- 🎮 **Game Development** — Python, Unity (dasar)  
+- 🤖 **Integrasi AI** — Gemini, DeepSeek, Claude, GPT  
+- 🎨 **Desain UI/UX** — Canva, Figma  
 
-Game Development (Python, Unity dasar)
+---
 
-Integrasi AI (Gemini, DeepSeek, Claude, GPT)
+## 🚀 Projek Unggulan
 
-Desain UI/UX dengan Canva & Figma
+### 🎮 Catfish Evolutions
+Game klasik bergaya arcade yang dikembangkan dengan **Python**.  
+Dilengkapi sistem **evolusi ikan**, **level bertahap**, dan **efek suara realistis**.  
+🔗 [Lihat di GitHub](#)
 
-🚀 Projek Unggulan
+---
 
-🎮 Catfish Evolutions
+### 🪐 Space Dodger
+Game berbasis **HTML, CSS, dan JavaScript (3JS)** dengan gameplay mirip **Subway Surfers versi luar angkasa**.  
+🔗 [Lihat di GitHub](#)
 
-Game klasik bergaya arcade yang dikembangkan dengan Python, dilengkapi sistem evolusi ikan, level, dan efek suara realistis.
-🔗 Github
+---
 
-🪐 Game Space Dodger
+### 🍲 Traditional Food Moluccas Web Game
+Game memasak bertema **makanan tradisional Maluku**, dikembangkan menggunakan **ReactJS**.  
+🔗 [Lihat di GitHub](#)
 
-Web Game Space Dodger adalah game berbasis 3JS, HTML, dan CSS sederhana, terinspirasi dari Subway Surfers.
-🔗 Github
+---
 
-🍲 Traditional Food Moluccas Web Game
+## 📘 Modul Pembelajaran
 
-Web Game bertema Cooking Game makanan tradisional Maluku, dibuat dengan ReactJS.
-🔗 Github
+- 📦 **Integrasi Blender dan AI** — modul pembelajaran tentang penggunaan **Blender** bersama **Claude AI**  
+  🔗 [Lihat Modul](#)
 
-📘 Module
-🔹 Integrasi Blender dan AI
+- ⚙️ **Gemini CLI** — panduan lengkap instalasi dan penggunaan **Gemini Command Line Interface**  
+  🔗 [Lihat Modul](#)
 
-Modul pembelajaran tentang pengintegrasian Blender dengan AI seperti Claude.
-🔗 Module
+- 🎮 **Unity Dasar** — pengenalan dasar pembuatan game dengan **Unity Engine**  
+  🔗 [Lihat Modul](#)
 
-🔹 Module Gemini CLI
+- 🌐 **Web 3D** — tutorial pembuatan **website 3D** menggunakan **Three.js**  
+  🔗 [Lihat Modul](#)
 
-Modul pembelajaran yang membahas cara menggunakan Gemini CLI.
-🔗 Module
+---
 
-🔹 Module Unity
+## 📫 Kontak
 
-Modul pembelajaran tentang dasar penggunaan Unity untuk pemula.
-🔗 Module
+- 📧 **Email:** [alfathsr08@gmail.com](mailto:alfathsr08@gmail.com)  
+- 📸 **Instagram:** [@aldaarrr](https://instagram.com/aldaarrr)  
 
-🔹 Module Web 3D
+---
 
-Modul pembelajaran cara membuat web 3D menggunakan Three.js.
-🔗 Module
+## ⚙️ Teknologi yang Digunakan
 
-📫 Kontak
+| Teknologi | Deskripsi |
+|------------|-----------|
+| 🧩 **HTML5** | Struktur halaman web |
+| 🎨 **CSS3** | Desain dan tata letak |
+| ⚡ **JavaScript** | Interaktivitas dan logika web |
+| 🖋️ **Google Fonts: Poppins** | Tipografi modern |
 
-📧 Email: alfathsr08@gmail.com
+---
 
-📸 Instagram: @aldaarrr
+## ⚖️ Lisensi
 
-⚙️ Teknologi yang Digunakan
+Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan, dimodifikasi, dan dikembangkan kembali dengan tetap mencantumkan kredit kepada pembuat asli.
 
-HTML5
+---
 
-CSS3
-
-JavaScript
-
-Google Fonts: Poppins
-
-⚖️ Lisensi
-
-Projek ini dilisensikan di bawah MIT License — bebas digunakan dan dimodifikasi dengan mencantumkan kredit.
+✨ *“Build. Learn. Create. Repeat.”*  
+— **Alfath Ari Wibowo**
