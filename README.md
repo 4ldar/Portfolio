@@ -18,6 +18,7 @@ Integrasi AI (Gemini, DeepSeek, Claude, GPT)
 Desain UI/UX dengan Canva & Figma
 
 🚀 Projek Unggulan
+
 🎮 Catfish Evolutions
 
 Game klasik bergaya arcade yang dikembangkan dengan Python, dilengkapi sistem evolusi ikan, level, dan efek suara realistis.
