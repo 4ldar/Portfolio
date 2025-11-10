@@ -21,35 +21,35 @@ Saya berpengalaman dalam membangun **aplikasi Android**, **website interaktif**,
 ### 🎮 Catfish Evolutions
 Game klasik bergaya arcade yang dikembangkan dengan **Python**.  
 Dilengkapi sistem **evolusi ikan**, **level bertahap**, dan **efek suara realistis**.  
-🔗 [Lihat di GitHub](#)
+🔗 [Lihat di GitHub](https://github.com/4ldar/Catfish-Evolution.git)
 
 ---
 
 ### 🪐 Space Dodger
 Game berbasis **HTML, CSS, dan JavaScript (3JS)** dengan gameplay mirip **Subway Surfers versi luar angkasa**.  
-🔗 [Lihat di GitHub](#)
+🔗 [Lihat di GitHub](https://github.com/4ldar/Space-Dodger.git)
 
 ---
 
 ### 🍲 Traditional Food Moluccas Web Game
 Game memasak bertema **makanan tradisional Maluku**, dikembangkan menggunakan **ReactJS**.  
-🔗 [Lihat di GitHub](#)
+🔗 [Lihat di GitHub](https://github.com/4ldar/TFM.git)
 
 ---
 
 ## 📘 Modul Pembelajaran
 
 - 📦 **Integrasi Blender dan AI** — modul pembelajaran tentang penggunaan **Blender** bersama **Claude AI**  
-  🔗 [Lihat Modul](#)
+  🔗 [Lihat Modul](https://www.canva.com/design/DAGt8Vv2Hek/3Ow7rhRraVONDQi0Ac09TQ/edit)
 
 - ⚙️ **Gemini CLI** — panduan lengkap instalasi dan penggunaan **Gemini Command Line Interface**  
-  🔗 [Lihat Modul](#)
+  🔗 [Lihat Modul](https://www.canva.com/design/DAGt8aBRFsY/VLepEGtMA7u_PvHNK3EOtg/edit)
 
 - 🎮 **Unity Dasar** — pengenalan dasar pembuatan game dengan **Unity Engine**  
-  🔗 [Lihat Modul](#)
+  🔗 [Lihat Modul](https://www.canva.com/design/DAGtZh8SY3s/qNnjOeM1A4zJXTM2zL9CAQ/edit)
 
 - 🌐 **Web 3D** — tutorial pembuatan **website 3D** menggunakan **Three.js**  
-  🔗 [Lihat Modul](#)
+  🔗 [Lihat Modul](https://www.canva.com/design/DAGuyaoamqo/a-tIzuoXfZDpOpIAkLnsdw/edit)
 
 ---
 
