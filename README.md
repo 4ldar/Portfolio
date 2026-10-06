@@ -56,7 +56,7 @@ Game memasak bertema **makanan tradisional Maluku**, dikembangkan menggunakan **
 ## 📫 Kontak
 
 - 📧 **Email:** [alfathsr08@gmail.com](mailto:alfathsr08@gmail.com)  
-- 📸 **Instagram:** [@aldaarrr](https://instagram.com/aldaarrr)  
+- 📸 **Instagram:** [@aldaarrr](https://instagram.com/aldaarrrr__)  
 
 ---
 
